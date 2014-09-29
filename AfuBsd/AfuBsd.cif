@@ -1,5 +1,5 @@
 <component>
-	name = "AfuBsd"
+	name = "AfuBsd_new"
 	category = eModule
 	LocalRoot = "RomUtils\Afu\AfuBsd"
 	RefName = "AfuBsd"
