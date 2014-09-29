@@ -1,0 +1,9 @@
+<component>
+	name = "AfuLnx32"
+	category = ModulePart
+	LocalRoot = "RomUtils\Afu\AfuLnx\32"
+	RefName = "AfuLnx32"
+
+[files]
+"AfuLnx32.zip"
+<endComponent>

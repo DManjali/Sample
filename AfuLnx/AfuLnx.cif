@@ -1,0 +1,10 @@
+<component>
+	name = "AfuLnx"
+	category = eModule
+	LocalRoot = "RomUtils\Afu\AfuLnx"
+	RefName = "AfuLnx"
+	
+[parts]
+"AfuLnx32"
+"AfuLnx64"
+<endComponent>

@@ -1,0 +1,10 @@
+<component>
+	name = "AfuWin"
+	category = eModule
+	LocalRoot = "RomUtils\Afu\AfuWin"
+	RefName = "AfuWin"
+	
+[parts]
+"AfuWin32"
+"AfuWin64"
+<endComponent>

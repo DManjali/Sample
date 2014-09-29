@@ -1,0 +1,9 @@
+<component>
+	name = "AfuEfi64"
+	category = ModulePart
+	LocalRoot = "RomUtils\Afu\AfuEfi\64"
+	RefName = "AfuEfi64"
+
+[files]
+"AfuEfi64.zip"
+<endComponent>

@@ -1,0 +1,10 @@
+<component>
+	name = "AfuEfi"
+	category = eModule
+	LocalRoot = "RomUtils\Afu\AfuEfi"
+	RefName = "AfuEfi"
+	
+[parts]
+"AfuEfi32"
+"AfuEfi64"
+<endComponent>

@@ -1,0 +1,9 @@
+<component>
+	name = "AfuWin32"
+	category = ModulePart
+	LocalRoot = "RomUtils\Afu\AfuWin\32"
+	RefName = "AfuWin32"
+
+[files]
+"AfuWin32.zip"
+<endComponent>

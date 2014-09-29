@@ -1,0 +1,9 @@
+<component>
+	name = "AfuBsd32"
+	category = ModulePart
+	LocalRoot = "RomUtils\Afu\AfuBsd\32"
+	RefName = "AfuBsd32"
+
+[files]
+"AfuBsd32.zip"
+<endComponent>

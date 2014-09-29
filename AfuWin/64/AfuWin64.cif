@@ -1,0 +1,9 @@
+<component>
+	name = "AfuWin64"
+	category = ModulePart
+	LocalRoot = "RomUtils\Afu\AfuWin\64"
+	RefName = "AfuWin64"
+
+[files]
+"AfuWin64.zip"
+<endComponent>
