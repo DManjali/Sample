@@ -1,8 +1,1 @@
-<component>
-	name = "SsiFlashAarch64 for EFI Shell"
-	category = eModule
-	LocalRoot = "ROMUtils\EFI\"
-	RefName = "SsiFlashAarch64.EFI"
-[files]
-"SsiFlashAarch64.EFI"	
-<endComponent>
+
