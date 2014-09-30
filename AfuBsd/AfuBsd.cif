@@ -1,10 +1,1 @@
-<component>
-	name = "AfuBsd_new"
-	category = eModule
-	LocalRoot = "RomUtils\Afu\AfuBsd"
-	RefName = "AfuBsd"
-	
-[parts]
-"AfuBsd32"
-"AfuBsd64"
-<endComponent>
+
