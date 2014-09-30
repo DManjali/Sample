@@ -1,9 +1,1 @@
-<component>
-	name = "AfuDos"
-	category = eModule
-	LocalRoot = "RomUtils\Afu\AfuDos"
-	RefName = "AfuDos"
 
-[files]
-"AfuDos.zip"
-<endComponent>
