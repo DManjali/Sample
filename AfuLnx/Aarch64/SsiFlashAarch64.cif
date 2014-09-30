@@ -1,8 +1,1 @@
-<component>
-	name = "SsiFlashAarch64 for Linux"
-	category = eModule
-	LocalRoot = "ROMUtils\Linux\"
-	RefName = "SsiFlashAarch64.LNX"
-[files]
-"SsiFlashAarch64.lnx"	
-<endComponent>
+
