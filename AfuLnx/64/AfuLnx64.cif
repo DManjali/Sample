@@ -1,9 +1,1 @@
-<component>
-	name = "AfuLnx64"
-	category = ModulePart
-	LocalRoot = "RomUtils\Afu\AfuLnx\64"
-	RefName = "AfuLnx64"
 
-[files]
-"AfuLnx64.zip"
-<endComponent>
